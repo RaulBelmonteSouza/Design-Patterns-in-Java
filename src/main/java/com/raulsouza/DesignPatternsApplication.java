@@ -1,4 +1,4 @@
-package com.raulsouza.designpatterns;
+package com.raulsouza;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
